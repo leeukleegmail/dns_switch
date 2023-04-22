@@ -47,5 +47,5 @@ if __name__ == "__main__":
         raise ValueError("Value must be on or off")
     main(dns_server)
 
-# alias dnsoff="/Users/leepenrose/python_code/dns_switch/main.py off"
-# alias dnson="/Users/leepenrose/python_code/dns_switch/main.py on"
+# alias dnsoff="/Users/bla/python_code/dns_switch/main.py off"
+# alias dnson="/Users/bla/python_code/dns_switch/main.py on"
